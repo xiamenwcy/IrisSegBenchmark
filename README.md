@@ -1,6 +1,6 @@
 # IrisSegBenchmark
 
-<img src='iris.jpg' width="820px">
+<img src='iris.jpg' width="400px">
 
 ### Introduction
 This repository contains some codes for **iris segmentation**. 
