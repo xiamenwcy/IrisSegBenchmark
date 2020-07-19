@@ -5,6 +5,15 @@
 ### Introduction
 This repository contains some codes for **iris segmentation**. 
 
+### Citation
+If you use the codes for your research, please cite our paper.
+
+```
+王财勇, 孙哲南. 虹膜分割算法评价基准[J]. 计算机研究与发展, 2020, 57(2): 395-412.
+Wang Caiyong, Sun Zhenan. A Benchmark for Iris Segmentation[J]. Journal of Computer Research and Development, 2020, 57(2): 395-412.
+```
+Anyone is permitted to use, distribute and change this program for any non-commercial usage. However each of such usage and/or publication must include above citation of this paper.
+
 ### CNN models
 The used models includes:
 - [FCN](https://arxiv.org/abs/1411.4038)
