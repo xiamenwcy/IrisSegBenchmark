@@ -37,5 +37,5 @@ The trained model can be downloaded via https://pan.baidu.com/s/1t0fSgVZKzSGtAcQ
   please see [IrisParseNet](https://github.com/xiamenwcy/IrisParseNet)
 
 ### Questions
-Please contact wangcaiyong2017@ia.ac.cn
+Please contact caiyong.wang@cripac.ia.ac.cn
 
